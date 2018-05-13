@@ -24,7 +24,3 @@ If you downloaded it via zip...
   ./checkpassword.py football
   # Common password
 ```
-
-#### Time spent
-
-I spent about three hours working on this script. I also made a JSON file with additional time information in no particular format... because I can... it's under "TimeTable.json".
