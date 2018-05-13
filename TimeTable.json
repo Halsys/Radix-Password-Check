@@ -1,6 +1,7 @@
 {
-	"timeSpent": "",
-	"secondsSpent": "",
+	"hoursSpent": "3.041388888888889",
+	"minutesSpent": "182.48333333333335",
+	"secondsSpent": "10949",
 	"events": [
 		{
 			"type": "start",

@@ -27,4 +27,4 @@ If you downloaded it via zip...
 
 #### Time spent
 
-I spent about a half-an-hour working on this script. I also made a JSON file with additional time information in no particular format... because I can... it's under "TimeTable.json".
+I spent about three hours working on this script. I also made a JSON file with additional time information in no particular format... because I can... it's under "TimeTable.json".
