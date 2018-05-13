@@ -1,0 +1,22 @@
+{
+	"timeSpent": "",
+	"secondsSpent": "",
+	"events": [
+		{
+			"type": "start",
+			"time": "Sat May 12 08:20:32 MDT 2018"
+		},
+		{
+			"type": "stop",
+			"time": "Sat May 12 09:39:57 MDT 2018"
+		},
+		{
+			"type": "start",
+			"time": "Sat May 12 10:03:55 MDT 2018"
+		},
+		{
+			"type": "stop",
+			"time": "Sat May 12 11:46:59 MDT 2018"
+		}
+	]
+}
